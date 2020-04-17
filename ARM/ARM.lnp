@@ -1,0 +1,8 @@
+--cpu ARM7TDMI
+".\startup.o"
+".\arm_skeleton.o"
+".\lpc213x.o"
+--strict --scatter ".\ARM.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\ARM.map" -o .\ARM.axf

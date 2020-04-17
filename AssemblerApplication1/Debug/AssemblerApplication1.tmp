@@ -1,0 +1,40 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.57</VERSION>
+ <DEVICE>"ATtiny2313"</DEVICE>
+ <WORKING_DIR>C:\Users\Filip\Desktop\thanos\AssemblerApplication1\AssemblerApplication1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Filip\Desktop\thanos\AssemblerApplication1\AssemblerApplication1\AssemblerApplication1.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include\tn2313def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Filip\Desktop\thanos\AssemblerApplication1\AssemblerApplication1\Debug/AssemblerApplication1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>AssemblerApplication1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>AssemblerApplication1.map</FILE>
+  <FILE>AssemblerApplication1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Start><FILE>C:\Users\Filip\Desktop\thanos\AssemblerApplication1\AssemblerApplication1\AssemblerApplication1.asm</FILE><LINE>77</LINE></Start>
+  <timer_isr><FILE>C:\Users\Filip\Desktop\thanos\AssemblerApplication1\AssemblerApplication1\AssemblerApplication1.asm</FILE><LINE>47</LINE></timer_isr>
+  <_ExtInt_ISR><FILE>C:\Users\Filip\Desktop\thanos\AssemblerApplication1\AssemblerApplication1\AssemblerApplication1.asm</FILE><LINE>30</LINE></_ExtInt_ISR>
+  <NumberToDigits><FILE>C:\Users\Filip\Desktop\thanos\AssemblerApplication1\AssemblerApplication1\AssemblerApplication1.asm</FILE><LINE>205</LINE></NumberToDigits>
+  <Table><FILE>C:\Users\Filip\Desktop\thanos\AssemblerApplication1\AssemblerApplication1\AssemblerApplication1.asm</FILE><LINE>75</LINE></Table>
+  <Main_Loop><FILE>C:\Users\Filip\Desktop\thanos\AssemblerApplication1\AssemblerApplication1\AssemblerApplication1.asm</FILE><LINE>119</LINE></Main_Loop>
+  <DigitTo7segCode><FILE>C:\Users\Filip\Desktop\thanos\AssemblerApplication1\AssemblerApplication1\AssemblerApplication1.asm</FILE><LINE>135</LINE></DigitTo7segCode>
+  <DelayInMs><FILE>C:\Users\Filip\Desktop\thanos\AssemblerApplication1\AssemblerApplication1\AssemblerApplication1.asm</FILE><LINE>239</LINE></DelayInMs>
+  <Divide><FILE>C:\Users\Filip\Desktop\thanos\AssemblerApplication1\AssemblerApplication1\AssemblerApplication1.asm</FILE><LINE>171</LINE></Divide>
+  <_Divide_end><FILE>C:\Users\Filip\Desktop\thanos\AssemblerApplication1\AssemblerApplication1\AssemblerApplication1.asm</FILE><LINE>190</LINE></_Divide_end>
+  <_Divide_loop><FILE>C:\Users\Filip\Desktop\thanos\AssemblerApplication1\AssemblerApplication1\AssemblerApplication1.asm</FILE><LINE>181</LINE></_Divide_loop>
+  <DelayLoop><FILE>C:\Users\Filip\Desktop\thanos\AssemblerApplication1\AssemblerApplication1\AssemblerApplication1.asm</FILE><LINE>244</LINE></DelayLoop>
+  <DelayOneMs><FILE>C:\Users\Filip\Desktop\thanos\AssemblerApplication1\AssemblerApplication1\AssemblerApplication1.asm</FILE><LINE>254</LINE></DelayOneMs>
+  <Loop><FILE>C:\Users\Filip\Desktop\thanos\AssemblerApplication1\AssemblerApplication1\AssemblerApplication1.asm</FILE><LINE>260</LINE></Loop>
+  <Loop_end><FILE>C:\Users\Filip\Desktop\thanos\AssemblerApplication1\AssemblerApplication1\AssemblerApplication1.asm</FILE><LINE>266</LINE></Loop_end>
+ </LABELS>
+</ASSEMBLER_INFO>
